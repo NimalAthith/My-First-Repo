@@ -1,3 +1,3 @@
 # My first Repo
 
-This is my first repot I am creating in fedora
+This is my first repo I am creating in Local machine.
